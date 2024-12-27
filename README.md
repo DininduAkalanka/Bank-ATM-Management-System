@@ -21,8 +21,3 @@ The system is designed with the following features:
 - Object-Oriented Programming Concepts
 - Scanner class for User Input
 
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/bank-account-atm-system.git
