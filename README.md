@@ -21,3 +21,5 @@ The system is designed with the following features:
 - Object-Oriented Programming Concepts
 - Scanner class for User Input
 
+
+![Screenshot 2025-06-23 234810](https://github.com/user-attachments/assets/b010dbd3-8143-418c-8590-f65f625a786f)
